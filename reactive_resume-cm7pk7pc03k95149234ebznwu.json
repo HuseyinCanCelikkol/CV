@@ -1,0 +1,361 @@
+{
+  "basics": {
+    "name": "Hüseyin Can Çelikkol",
+    "headline": "",
+    "email": "huseyincancelikkol@hotmail.com",
+    "phone": "",
+    "location": "",
+    "url": {
+      "label": "",
+      "href": ""
+    },
+    "customFields": [
+      {
+        "id": "bptarpxtdqxku6uxr4hsx5n9",
+        "icon": "github-logo",
+        "name": "",
+        "value": "github.com/HuseyinCanCelikkol"
+      }
+    ],
+    "picture": {
+      "url": "",
+      "size": 64,
+      "aspectRatio": 1,
+      "borderRadius": 0,
+      "effects": {
+        "hidden": false,
+        "border": false,
+        "grayscale": false
+      }
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "Summary",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "summary",
+      "content": ""
+    },
+    "awards": {
+      "name": "Awards",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "awards",
+      "items": []
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "certifications",
+      "items": []
+    },
+    "education": {
+      "name": "Education",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "v7pelubf70ziudi2oe8rdm2s",
+          "visible": true,
+          "institution": "Karadeniz Technical University",
+          "studyType": "Computer Engineering",
+          "area": "",
+          "score": "",
+          "date": "Sep 2018 - Nov 2023",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "Experience",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "ze0zu4ytzj87k6kx5z960h2c",
+          "visible": true,
+          "company": "Doldur E-Mobility Technologies",
+          "position": "Software Developer",
+          "location": "",
+          "date": "Aug 2023 - Sep 2024",
+          "summary": "<p>Worked as a Full Stack Developer, handling both frontend and backend development. Built and optimized CRUD pages, developed custom modules, and improved data management. Configured ElasticSearch for better indexing and integrated Google services to enhance functionality.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "egdjaxbzpu8mow8p8khjzvkw",
+          "visible": true,
+          "company": "DevHouse Software and Consultancy Services Inc.",
+          "position": "Software Team Lead",
+          "location": "",
+          "date": "Sep 2024 - Mar 2025",
+          "summary": "<p> Led projects and teams, applying Agile methodologies (Scrum, Kanban) to optimize workflows. Built a CI/CD pipeline with Docker and GitLab Runner, streamlining deployment. Balanced leadership with hands-on Full Stack development across frontend, backend, and DevOps.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Volunteering",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "volunteer",
+      "items": [
+        {
+          "id": "z8wcz64s0ho6w9gdo5giga5s",
+          "visible": true,
+          "organization": "Voluntary Work for Earthquake Relief – Istanbul Yenikapı (2023)",
+          "position": "",
+          "location": "",
+          "date": "Feb 6 - Feb 26",
+          "summary": "<p>During the devastating Hatay earthquake in 2023, I volunteered at the relief efforts in Istanbul Yenikapı to support those affected by the disaster. Alongside other volunteers, I actively participated in loading trucks with essential supplies, ensuring that aid reached the victims as quickly as possible. My responsibilities included carrying and organizing heavy pallets, transporting boxes filled with necessities, and assisting in the packaging process to streamline distribution. </p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "interests": {
+      "name": "Interests",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "interests",
+      "items": []
+    },
+    "languages": {
+      "name": "Languages",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "languages",
+      "items": [
+        {
+          "id": "aw9h54pawqqob3ob5y1y3af1",
+          "visible": true,
+          "name": "English",
+          "description": "",
+          "level": 4
+        }
+      ]
+    },
+    "profiles": {
+      "name": "Profiles",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "profiles",
+      "items": []
+    },
+    "projects": {
+      "name": "Projects",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "projects",
+      "items": [
+        {
+          "id": "hgrv1k4kc3aueedv3nirnt8n",
+          "visible": true,
+          "name": "KUBYSIS - DONATION MANAGEMENT SYSTEM",
+          "description": "",
+          "date": "",
+          "summary": "<p></p>",
+          "keywords": [
+            "VUE 3",
+            ".NET CORE 8",
+            "GITLAB",
+            "ENTITY FRAMEWORK"
+          ],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "y3mwdqyu3tnr5ye07uuaf7ns",
+          "visible": true,
+          "name": "DOLDUR FLEET - EV FLEET MANAGEMENT",
+          "description": "",
+          "date": "",
+          "summary": "",
+          "keywords": [
+            "VUE 2",
+            ".NET CORE",
+            "ENTITY FRAMEWORK"
+          ],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "bzfupocisbnzth7rmd5ykqy4",
+          "visible": true,
+          "name": "SOCKET PROJECTION PAGE - REAL-TIME EV CHARGING VISUALIZATION",
+          "description": "",
+          "date": "",
+          "summary": "",
+          "keywords": [
+            "VUE 2",
+            ".NET CORE",
+            "ENTITY FRAMEWORK"
+          ],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "qnn89neppebznxmy3bmfbdxk",
+          "visible": true,
+          "name": "EV CHARGING STATION CAMPAIGN MANAGEMENT",
+          "description": "",
+          "date": "",
+          "summary": "",
+          "keywords": [
+            "VUE 2",
+            ".NET CORE",
+            "ENTITY FRAMEWORK"
+          ],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "publications",
+      "items": []
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "references",
+      "items": []
+    },
+    "skills": {
+      "name": "Skills",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "volvn2ue4cc0hhvpbb8uv385",
+          "visible": true,
+          "name": "Backend",
+          "description": ".NET„ .NET Core, ASP.NET, Entity Framework, SQL / LINQ",
+          "level": 5,
+          "keywords": []
+        },
+        {
+          "id": "gw23h3mhq7ob6m5a9xyduwq0",
+          "visible": true,
+          "name": "Frontend",
+          "description": "Blazor, Vue.js, MVC",
+          "level": 5,
+          "keywords": []
+        },
+        {
+          "id": "ymjo91euw1gxmzcar8m0ffae",
+          "visible": true,
+          "name": "Coding Languages",
+          "description": "C/C++, C#, JavaScript, Python, SQL",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "z8q8z8edcj6bxsk0bsqlh0j9",
+          "visible": true,
+          "name": "DevOps",
+          "description": "Docker, CI/CD, Agile Principles, Pipeline",
+          "level": 3,
+          "keywords": []
+        }
+      ]
+    },
+    "custom": {}
+  },
+  "metadata": {
+    "template": "gengar",
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "experience",
+          "projects",
+          "volunteer",
+          "references"
+        ],
+        [
+          "education",
+          "languages",
+          "skills",
+          "interests",
+          "certifications",
+          "awards",
+          "publications"
+        ]
+      ]
+    ],
+    "css": {
+      "value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 14,
+      "format": "a4",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "theme": {
+      "background": "#FFFFFF",
+      "text": "#000000",
+      "primary": "#456777"
+    },
+    "typography": {
+      "font": {
+        "family": "Lora",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ],
+        "size": 13.55
+      },
+      "lineHeight": 1.5,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "notes": ""
+  }
+}
