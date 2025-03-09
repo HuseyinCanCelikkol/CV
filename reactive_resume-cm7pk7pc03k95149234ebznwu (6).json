@@ -1,0 +1,371 @@
+{
+  "basics": {
+    "name": "Hüseyin Can Çelikkol",
+    "headline": "Software Developer",
+    "email": "huseyincancelikkol@outlook.com",
+    "phone": "",
+    "location": "",
+    "url": {
+      "label": "GitHub",
+      "href": ""
+    },
+    "customFields": [
+      {
+        "id": "bptarpxtdqxku6uxr4hsx5n9",
+        "icon": "github-logo",
+        "name": "",
+        "value": "https://github.com/HuseyinCanCelikkol"
+      }
+    ],
+    "picture": {
+      "url": "",
+      "size": 64,
+      "aspectRatio": 1,
+      "borderRadius": 0,
+      "effects": {
+        "hidden": false,
+        "border": false,
+        "grayscale": false
+      }
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "Summary",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "summary",
+      "content": "<p>Computer Engineer with expertise in web development and AI. As a full-stack developer, I have contributed to various projects, focusing on innovative web applications while continuously expanding my skills across multiple engineering domains. My multidisciplinary approach enables me to tackle challenges effectively.</p>"
+    },
+    "awards": {
+      "name": "Awards",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "awards",
+      "items": []
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "certifications",
+      "items": []
+    },
+    "education": {
+      "name": "Education",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "v7pelubf70ziudi2oe8rdm2s",
+          "visible": true,
+          "institution": "Karadeniz Technical University",
+          "studyType": "Computer Engineering",
+          "area": "",
+          "score": "",
+          "date": "Sep 2018 - Nov 2023",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "Experience",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "ze0zu4ytzj87k6kx5z960h2c",
+          "visible": true,
+          "company": "Doldur E-Mobility Technologies",
+          "position": "Software Developer",
+          "location": "",
+          "date": "Aug 2023 - Sep 2024",
+          "summary": "<p>Worked as a Full Stack Developer, handling both frontend and backend development. Built and optimized CRUD pages, developed custom modules, and improved data management. Configured ElasticSearch for better indexing and integrated Google services to enhance functionality.</p><p>Tech Stacks: Vue.js 2 , .NET Core, Entity Framework, Blazor, JavaScript, Python</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "egdjaxbzpu8mow8p8khjzvkw",
+          "visible": true,
+          "company": "DevHouse Software and Consultancy Services Inc.",
+          "position": "Software Team Lead",
+          "location": "",
+          "date": "Sep 2024 - Mar 2025",
+          "summary": "<p> Led projects and teams, applying Agile methodologies (Scrum, Kanban) to optimize workflows. Built a CI/CD pipeline with Docker and GitLab Runner, streamlining deployment. Balanced leadership with hands-on Full Stack development across frontend, backend, and DevOps.</p><p></p><p>Tech Stacks: .Net Core, MVC, Html, Css, Bootstrap, JQuery, AJAX, YAML, JavaScript</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Volunteering",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "volunteer",
+      "items": []
+    },
+    "interests": {
+      "name": "Interests",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "interests",
+      "items": []
+    },
+    "languages": {
+      "name": "Languages",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "languages",
+      "items": [
+        {
+          "id": "aw9h54pawqqob3ob5y1y3af1",
+          "visible": true,
+          "name": "English",
+          "description": "",
+          "level": 4
+        }
+      ]
+    },
+    "profiles": {
+      "name": "Profiles",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "profiles",
+      "items": []
+    },
+    "projects": {
+      "name": "Projects",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "projects",
+      "items": [
+        {
+          "id": "hgrv1k4kc3aueedv3nirnt8n",
+          "visible": true,
+          "name": "KUBYSIS - DONATION MANAGEMENT SYSTEM",
+          "description": "",
+          "date": "",
+          "summary": "<p>Kubysis is a web application designed to help a foundation efficiently manage its donations. The system allows users to add, edit, and track donations, as well as manage accounting calculations related to the donations.</p>",
+          "keywords": [
+            "VUE 3",
+            ".NET CORE 8",
+            "GITLAB",
+            "ENTITY FRAMEWORK"
+          ],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "y3mwdqyu3tnr5ye07uuaf7ns",
+          "visible": true,
+          "name": "DOLDUR FLEET - EV FLEET MANAGEMENT",
+          "description": "",
+          "date": "",
+          "summary": "<p>Developed a comprehensive fleet management solution tailored for electric vehicles, enabling businesses to optimize operations and enhance sustainability.</p>",
+          "keywords": [
+            "VUE 2",
+            ".NET CORE",
+            "ENTITY FRAMEWORK"
+          ],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "bzfupocisbnzth7rmd5ykqy4",
+          "visible": true,
+          "name": "SOCKET PROJECTION PAGE - REAL-TIME EV CHARGING VISUALIZATION",
+          "description": "",
+          "date": "",
+          "summary": "<p>Developed an interactive dashboard for monitoring electric vehicle charging processes in real time.</p>",
+          "keywords": [
+            "VUE 2",
+            ".NET CORE",
+            "ENTITY FRAMEWORK"
+          ],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "qnn89neppebznxmy3bmfbdxk",
+          "visible": true,
+          "name": "EV CHARGING STATION CAMPAIGN MANAGEMENT",
+          "description": "",
+          "date": "",
+          "summary": "<p>Developed a dynamic software solution for managing EV charging station campaigns, enabling flexible discount and campaign management for enhanced user experience.</p>",
+          "keywords": [
+            "VUE 2",
+            ".NET CORE",
+            "ENTITY FRAMEWORK"
+          ],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "publications",
+      "items": []
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "references",
+      "items": []
+    },
+    "skills": {
+      "name": "Skills",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "volvn2ue4cc0hhvpbb8uv385",
+          "visible": true,
+          "name": "Backend",
+          "description": ".NET, .NET Core, ASP.NET, Entity Framework, SQL / LINQ, MySQL, PostgreSQL, Relational Databases",
+          "level": 5,
+          "keywords": []
+        },
+        {
+          "id": "gw23h3mhq7ob6m5a9xyduwq0",
+          "visible": true,
+          "name": "Frontend",
+          "description": "Blazor, Vue.js, MVC, JQuery, AJAX, Bootstrap, Vuetify",
+          "level": 5,
+          "keywords": []
+        },
+        {
+          "id": "ymjo91euw1gxmzcar8m0ffae",
+          "visible": true,
+          "name": "Coding Languages",
+          "description": "C/C++, C#, JavaScript, Python, SQL, HTML, CSS",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "z8q8z8edcj6bxsk0bsqlh0j9",
+          "visible": true,
+          "name": "DevOps",
+          "description": "Docker, CI/CD, Agile Principles, Pipeline, Gitlab CI/CD with Runner, Container Registry and Management, Selenium, Nginx, SonarQube, Elasticsearch, Data Orchestration",
+          "level": 3,
+          "keywords": []
+        },
+        {
+          "id": "vok5f4256wfqlwlmm0y0ymy8",
+          "visible": true,
+          "name": "Version Control",
+          "description": "Git, Gitlab, Github, Azure DevOps",
+          "level": 5,
+          "keywords": []
+        },
+        {
+          "id": "iayw00262nhpzc0gkmu05n47",
+          "visible": true,
+          "name": "Code Skills",
+          "description": "Design Patterns, Design Arc (Onion, Clean, N-Tier), UnitOfWork, Generic Repository, Clean Code, Code Quality/Sustainability",
+          "level": 5,
+          "keywords": []
+        },
+        {
+          "id": "d9qz4umativuvktnsy9vqswm",
+          "visible": true,
+          "name": "Other",
+          "description": "Web Scraping, AI Development, Team Work and Management, OCPP 1.6/2.0, OCPI, ",
+          "level": 3,
+          "keywords": []
+        }
+      ]
+    },
+    "custom": {}
+  },
+  "metadata": {
+    "template": "gengar",
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "experience",
+          "projects",
+          "volunteer",
+          "references"
+        ],
+        [
+          "education",
+          "languages",
+          "skills",
+          "interests",
+          "certifications",
+          "awards",
+          "publications"
+        ]
+      ]
+    ],
+    "css": {
+      "value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 14,
+      "format": "a4",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "theme": {
+      "background": "#FFFFFF",
+      "text": "#000000",
+      "primary": "#456777"
+    },
+    "typography": {
+      "font": {
+        "family": "Lora",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ],
+        "size": 13.55
+      },
+      "lineHeight": 1.5,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "notes": ""
+  }
+}
